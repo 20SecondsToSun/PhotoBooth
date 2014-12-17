@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Blocks">
+      <UniqueIdentifier>{EA69683F-A399-4CFA-8AF8-355BB5F5E60A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Blocks\Awesomium">
+      <UniqueIdentifier>{E57F6EB8-4808-4362-945B-9ABC285EEDE6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Blocks\Awesomium\include">
+      <UniqueIdentifier>{D82AC7DC-E1E9-4584-99D5-4811CA99CDCC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Blocks\Awesomium\src">
+      <UniqueIdentifier>{E562F9A6-FFC0-4262-9B4C-4853D4561D32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Blocks\Cinder-Curl">
+      <UniqueIdentifier>{2C895FFD-9061-498B-87A8-D20F415FBC6F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Blocks\Cinder-Curl\src">
+      <UniqueIdentifier>{84899EAF-E4B6-4735-BBFE-5633C49BCBA9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\assets">
+      <UniqueIdentifier>{3d3119ad-5a72-4568-8f6a-25c6cf0bbcfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\camera">
+      <UniqueIdentifier>{01e185fc-efc3-4277-960a-2db2b79dd4b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\camera\adapter">
+      <UniqueIdentifier>{cef74b30-b171-47a6-8610-b4feab8bc830}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\camera\canon">
+      <UniqueIdentifier>{01e4524e-faec-44b1-8d69-ff97b7e6ada0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\camera\web">
+      <UniqueIdentifier>{ebb404f2-be69-49cc-8e07-a206cfe507a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Blocks\CanonSdk">
+      <UniqueIdentifier>{f21085b6-7928-4feb-a91d-d0db330ab7b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\drawing">
+      <UniqueIdentifier>{829f0338-ffc1-4646-b856-8859205a98fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI">
+      <UniqueIdentifier>{411848e4-c6ae-43a0-92b1-8ccaef8aeb68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI\elements">
+      <UniqueIdentifier>{c3556d05-ad5a-4b16-a805-bbc628604986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI\emailform">
+      <UniqueIdentifier>{2d8e7b08-8de7-4c03-a45c-a69e8c67fd5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI\popup">
+      <UniqueIdentifier>{aaf6940f-780f-49af-88a6-00b97615a68d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI\socialform">
+      <UniqueIdentifier>{60c7c7a1-6186-42ad-b29f-4422de1ecce3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI\touchkeyboard">
+      <UniqueIdentifier>{80dfc8d6-1957-486e-87f9-05fa62d5e263}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\locations">
+      <UniqueIdentifier>{dd473000-7a76-47d4-9be8-99d253de5bf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\PrintJob">
+      <UniqueIdentifier>{636c89ba-aa3b-4fe2-ac41-457c579720ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\social">
+      <UniqueIdentifier>{83170800-a0aa-4c4e-9d12-95c4c041a5e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\social\twitter">
+      <UniqueIdentifier>{ee596093-4382-40f4-a4b5-40680f142534}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\utils">
+      <UniqueIdentifier>{369ac92f-4866-4a82-b7f1-0dd3ca27baba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\ToyotaPhotoBoothApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ToyotaPhotoBoothApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClInclude Include="..\include\Resources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\blocks\Awesomium\include\CinderAwesomium.h">
+      <Filter>Blocks\Awesomium\include</Filter>
+    </ClInclude>
+    <ClCompile Include="..\blocks\Awesomium\src\CinderAwesomium.cpp">
+      <Filter>Blocks\Awesomium\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\blocks\Cinder-Curl\src\Curl.cpp">
+      <Filter>Blocks\Cinder-Curl\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\blocks\Cinder-Curl\src\Ftp.cpp">
+      <Filter>Blocks\Cinder-Curl\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\blocks\Cinder-Curl\src\FtpManager.cpp">
+      <Filter>Blocks\Cinder-Curl\src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\blocks\Cinder-Curl\src\Curl.h">
+      <Filter>Blocks\Cinder-Curl\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\blocks\Cinder-Curl\src\Ftp.h">
+      <Filter>Blocks\Cinder-Curl\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\blocks\Cinder-Curl\src\FtpManager.h">
+      <Filter>Blocks\Cinder-Curl\src</Filter>
+    </ClInclude>
+    <ClCompile Include="..\src\assets\AssetsManager.cpp">
+      <Filter>Source Files\assets</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\cameraAdapter\CameraAdapter.cpp">
+      <Filter>Source Files\camera\adapter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\blocks\Cinder-CanonSdk\src\CanonCamera.cpp">
+      <Filter>Blocks\CanonSdk</Filter>
+    </ClCompile>
+    <ClCompile Include="..\blocks\Cinder-CanonSdk\src\CinderCanon.cpp">
+      <Filter>Blocks\CanonSdk</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Camera.cpp">
+      <Filter>Source Files\camera\web</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\drawing\Draw.cpp">
+      <Filter>Source Files\drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Params.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Button.cpp">
+      <Filter>Source Files\GUI\elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PreloaderCircle.cpp">
+      <Filter>Source Files\GUI\elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\QRcode.cpp">
+      <Filter>Source Files\GUI\elements</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\emailForm\EmailForm.cpp">
+      <Filter>Source Files\GUI\emailform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Popup.cpp">
+      <Filter>Source Files\GUI\popup</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\socialForm\SocialForm.cpp">
+      <Filter>Source Files\GUI\socialform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\keyboard\VirtualKeyboard.cpp">
+      <Filter>Source Files\GUI\touchkeyboard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\locations\Instruction.cpp">
+      <Filter>Source Files\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\locations\Location.cpp">
+      <Filter>Source Files\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\locations\LocationEngine.cpp">
+      <Filter>Source Files\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\locations\PhotoMaker.cpp">
+      <Filter>Source Files\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\locations\ShareScreen.cpp">
+      <Filter>Source Files\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Printer.cpp">
+      <Filter>Source Files\PrintJob</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\Facebook.cpp">
+      <Filter>Source Files\social</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\SocialShare.cpp">
+      <Filter>Source Files\social</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\Twitter.cpp">
+      <Filter>Source Files\social</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\Vkontakte.cpp">
+      <Filter>Source Files\social</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\twitter\base64.cpp">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\twitter\HMAC_SHA1.cpp">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\twitter\oauthlib.cpp">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\twitter\SHA1.cpp">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\twitter\twitcurl.cpp">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\twitter\urlencode.cpp">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\utils\Utils.cpp">
+      <Filter>Source Files\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\social\Server.cpp">
+      <Filter>Source Files\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\Resources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\AssetsManager.h">
+      <Filter>Source Files\assets</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\cameraAdapter\CameraAdapter.h">
+      <Filter>Source Files\camera\adapter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\blocks\Cinder-CanonSdk\include\CanonCamera.h">
+      <Filter>Blocks\CanonSdk</Filter>
+    </ClInclude>
+    <ClInclude Include="..\blocks\Cinder-CanonSdk\include\CanonDebug.h">
+      <Filter>Blocks\CanonSdk</Filter>
+    </ClInclude>
+    <ClInclude Include="..\blocks\Cinder-CanonSdk\include\CinderCanon.h">
+      <Filter>Blocks\CanonSdk</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Camera.h">
+      <Filter>Source Files\camera\web</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\drawing\Draw.h">
+      <Filter>Source Files\drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Params.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Button.h">
+      <Filter>Source Files\GUI\elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\PreloaderCircle.h">
+      <Filter>Source Files\GUI\elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\QRcode.h">
+      <Filter>Source Files\GUI\elements</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\emailForm\EmailForm.h">
+      <Filter>Source Files\GUI\emailform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Popup.h">
+      <Filter>Source Files\GUI\popup</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\socialForm\SocialForm.h">
+      <Filter>Source Files\GUI\socialform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\keyboard\VirtualKeyboard.h">
+      <Filter>Source Files\GUI\touchkeyboard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\locations\Instruction.h">
+      <Filter>Source Files\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\locations\Location.h">
+      <Filter>Source Files\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\locations\LocationEngine.h">
+      <Filter>Source Files\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\locations\PhotoMaker.h">
+      <Filter>Source Files\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\locations\ShareScreen.h">
+      <Filter>Source Files\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Printer.h">
+      <Filter>Source Files\PrintJob</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\Facebook.h">
+      <Filter>Source Files\social</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\Server.h">
+      <Filter>Source Files\social</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\SocialShare.h">
+      <Filter>Source Files\social</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\Twitter.h">
+      <Filter>Source Files\social</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\Vkontakte.h">
+      <Filter>Source Files\social</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\twitter\base64.h">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\twitter\HMAC_SHA1.h">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\twitter\oauthlib.h">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\twitter\SHA1.h">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\twitter\twitcurl.h">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\twitter\twitcurlurls.h">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\social\twitter\urlencode.h">
+      <Filter>Source Files\social\twitter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\utils\TConvert.h">
+      <Filter>Source Files\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\utils\Utils.h">
+      <Filter>Source Files\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resources.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
